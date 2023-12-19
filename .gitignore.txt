@@ -1,3 +1,3 @@
-"mnist database.zip"
+mnist database.zip
 .DS_Store
-"mnist database/.DS_Store"
+mnist database/.DS_Store
