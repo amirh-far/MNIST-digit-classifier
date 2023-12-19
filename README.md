@@ -7,9 +7,10 @@ I trained this data with Sklearn Random Forest Classifier.
 
 ## Getting Started
 
-Install conda on your machine [install conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)<br>
+Install conda on your machine:<br>
+[install conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)<br>
 
-Verify the installation of jupyter notebook<br>
+Verify the installation of jupyter notebook.<br>
 
 clone the repository:<br>
 ```
