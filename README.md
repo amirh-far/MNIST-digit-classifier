@@ -42,10 +42,10 @@ now run all cells.<br>
 ## Preview
 
 Confusion Matrix <br>
-[confusion matrix](https://github.com/amirh-far/MNIST-digit-classifier/blob/main/readme_images/confusion%20matrix.png)
+<img src="https://github.com/amirh-far/MNIST-digit-classifier/blob/main/readme_images/confusion%20matrix.png"/>
 
 Some Data Visualized <br>
-[sme data visulzd](https://github.com/amirh-far/MNIST-digit-classifier/blob/main/readme_images/some%20data%20visualized.png)
+<img src="https://github.com/amirh-far/MNIST-digit-classifier/blob/main/readme_images/some%20data%20visualized.png"/>
 
 
 ## Usage
