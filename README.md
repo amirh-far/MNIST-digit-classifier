@@ -5,6 +5,7 @@ The dataset is MNIST and train data has about 59992 images as well as labels.<br
 Test has 10k images.<br>
 I trained this data with Sklearn Random Forest Classifier.
 
+
 ## Getting Started
 
 Install conda on your machine:<br>
@@ -30,14 +31,18 @@ jupyter notebook
 ```
 open classifier.ipynb<br>
 now run all cells.<br>
-done :)
+
 
 ## Usage
 
-...
+Can be used to predict your images digits. the accuracy of this model on 10k images is 97 %
+This model is trained on 60k images and this accuracy is great.<br>
+Use this trained model as you wish.
+
 
 ## Contributing
 
-If you would like others to contribute to your project, explain how they can do so. Include guidelines for submitting bug reports, feature requests, or code contributions.
-
+If you would like others to contribute to your project, explain how they can do so. Include guidelines for submitting bug reports, feature requests, or code contributions.<br>
+<br>
+Happy coding my friend :)
 
