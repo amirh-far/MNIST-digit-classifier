@@ -57,7 +57,7 @@ Use this trained model as you wish.
 
 ## Contributing
 
-If you would like others to contribute to your project, explain how they can do so. Include guidelines for submitting bug reports, feature requests, or code contributions.<br>
+Feel free to contribute to this mini project. Also you can connect with me via Gmail, LinkedIn or telegram (ids are mentioned in my github profile).<br>
 <br>
 Happy coding my friend :)
 
