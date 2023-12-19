@@ -28,7 +28,7 @@ jupyter notebook
 ```
 open classifier.ipynb<br>
 now run all cells.<br>
-done. :)
+done :)
 
 ## Usage
 
