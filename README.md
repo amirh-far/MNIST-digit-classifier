@@ -1,1 +1,1 @@
-# MNIST-digit-classifier
+# MNIST digit classifier from images
