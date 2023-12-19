@@ -5,6 +5,9 @@ The dataset is MNIST and train data has about 59992 images as well as labels.<br
 Test has 10k images.<br>
 I trained this data with Sklearn Random Forest Classifier.
 
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+</p>
 
 ## Getting Started
 
