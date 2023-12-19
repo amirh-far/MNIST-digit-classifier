@@ -2,7 +2,8 @@
 
 MNIST digit classifier which classifies 28 by 28 pixels images into classes: 0 to 9.<br>
 The dataset is MNIST and train data has about 59992 images as well as labels.<br>
-Test has 10k images.
+Test has 10k images.<br>
+I trained this data with Sklearn Random Forest Classifier.
 
 ## Getting Started
 
