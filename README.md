@@ -50,7 +50,7 @@ Some Data Visualized <br>
 
 ## Usage
 
-Can be used to predict your images digits. Precision of this model on 10k images is 97 %.
+Can be used to predict your images digits. Precision of this model on 10k images is 97 %.<br>
 This model is trained on 60k images and this value for precision is great.<br>
 Use this trained model as you wish.
 
