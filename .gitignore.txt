@@ -1,1 +1,2 @@
 "mnist database.zip"
+.DS_Store
