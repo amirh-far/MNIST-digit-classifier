@@ -58,6 +58,6 @@ Use this trained model as you wish.
 ## Contributing
 
 Feel free to contribute to this mini project.<br>
-Also you can connect with me via Gmail, LinkedIn or telegram (links available in my github profile: [link](https://github.com/amirh-far)).<br>
+Also you can reach out to mevia Gmail, LinkedIn or telegram (links available in my github profile: [link](https://github.com/amirh-far)).<br>
 Happy coding my friend :)
 
