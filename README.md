@@ -57,7 +57,7 @@ Use this trained model as you wish.
 
 ## Contributing
 
-Feel free to contribute to this mini project. Also you can connect with me via Gmail, LinkedIn or telegram (this [link](https://github.com/amirh-far).<br>
+Feel free to contribute to this mini project. Also you can connect with me via Gmail, LinkedIn or telegram (this [link](https://github.com/amirh-far)).<br>
 <br>
 Happy coding my friend :)
 
