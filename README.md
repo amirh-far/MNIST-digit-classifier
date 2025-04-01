@@ -1,6 +1,7 @@
+(Nothing serious. Made it when I was a noob in ML, Check if u like)
+
 # MNIST Digit Classifier
 
-(Nothing serious. Made it when I was a noob in ML, Check if u like)
 MNIST digit classifier which classifies 28 by 28 pixels images into classes: 0 to 9.<br>
 The dataset is MNIST and train data has about 60k images as well as labels.<br>
 Test data has 10k images.<br>
